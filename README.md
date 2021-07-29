@@ -7,7 +7,7 @@ About me:
 
  * I love Coding, Anime and most importantly Food 😋
  * I love drawing too!!🎨 
- * From Pakistan, currently live in UK🇬🇧
+ * From Pakistan, currently living in UK🇬🇧
 
 <!-- Here are some ideas to get you started:
 
