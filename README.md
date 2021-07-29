@@ -2,12 +2,12 @@
 
 
 About me:
-*Full Stack Software Developer BootCamp Student (6 months full-time course)
-*Looking for Junior Software Developer position
+* Full Stack Software Developer BootCamp Student (6 months full-time course)
+* Looking for Junior Software Developer position
 
- *I love Coding, Anime and most importantly Food 😋
- *I love drawing too!!🎨 
- *From Pakistan, currently live in UK🇬🇧
+ * I love Coding, Anime and most importantly Food 😋
+ * I love drawing too!!🎨 
+ * From Pakistan, currently live in UK🇬🇧
 
 <!-- Here are some ideas to get you started:
 
