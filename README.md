@@ -8,6 +8,7 @@ About me:
  * I love Coding, Anime and most importantly Food 😋
  * I like drawing too!!🎨 
  * From Pakistan, currently living in UK🇬🇧
+ * I can speak English and Urdu fluently, and understand Arabic well
 
 ![thank-you-image](https://th.bing.com/th/id/OIP.lkz26GIgt-adJbZrp6DtiwAAAA?w=183&h=189&c=7&o=5&pid=1.7)
 
