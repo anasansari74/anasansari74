@@ -1,10 +1,11 @@
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+# Check out my favourite project:
+* Link: https://github.com/anasansari74/boolean-uk-solo-project-client
 
 About me:
-* Full Stack Software Developer BootCamp Student (6 months full-time course)
+* Full Stack Software Developer BootCamp Graduate (6 months full-time course)
 * Looking for Junior Software Developer position
-
  * I love Coding, Anime and most importantly Sports 🏅
  * I like drawing too!!🎨 
  * From Pakistan, currently living in UK🇬🇧
