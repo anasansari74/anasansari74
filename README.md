@@ -1,6 +1,6 @@
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# Check out my favourite project:
+## Check out my favourite project:
 * Link: https://github.com/anasansari74/boolean-uk-solo-project-client
 
 About me:
