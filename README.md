@@ -15,8 +15,6 @@ About me:
 [<img align="left" alt="LinkedIn" width="50px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>](https://www.linkedin.com/in/anas-ansari-a8149320a/)
 <a target="_blank" href="mailto:anas27ag74@gmail.com">
   <img align="left" alt="Gmail" width="50px" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-icon-1.png" />
-</a>
-[<img align="left" alt="Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"/>](https://www.instagram.com/anas_ag74/)
 </br></br>
 
 ### Languages and Tools: 
