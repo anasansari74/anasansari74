@@ -26,6 +26,4 @@ About me:
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 </br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasansari74&layout=compact)](https://github.com/anasansari74/github-readme-stats)
-
 ![thank-you-image](https://th.bing.com/th/id/OIP.lkz26GIgt-adJbZrp6DtiwAAAA?w=183&h=189&c=7&o=5&pid=1.7)
