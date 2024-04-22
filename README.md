@@ -6,7 +6,7 @@
 About me:
 * Full Stack Software Developer BootCamp Graduate (6 months full-time course)
 * Looking for Junior Software Developer position
- * I love Coding, Anime and most importantly Sports 🏅
+ * I love programming and Sports 🏅
  * I like drawing too!!🎨 
  * From Pakistan, currently living in UK🇬🇧
  * I can speak English and Urdu fluently, and understand Arabic well
